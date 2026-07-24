@@ -2,9 +2,9 @@
 title: "Seu Nome"
 subtitle: "Analista de Dados & Python Developer"
 description: "Portfólio de projetos em Python, Power BI, SQL e automação de processos logísticos"
-url: "https://seunome.github.io"
+url: "https://jeancarlosportifolio.github.io"
 baseurl: ""
-repository: "seunome/seunome.github.io"
+repository: "1cssjean/jeancarlosportifolio.github.io"
 
 # Tema
 remote_theme: "mmistakes/minimal-mistakes"
